@@ -4,3 +4,4 @@ This repository contains the notebooks I worked on in the frame of [263-2400-00L
 ## Contents
 
 - Targeted and untargeted FGSM attacks on pre-trained Neural Networks
+- PGD and TRADES defenses for adversarial-attacks-resistant Neural Networks
